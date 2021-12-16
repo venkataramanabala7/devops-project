@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 hello nd file
+=======
+
+hello
+hello 2nd file modified
+hi
+>>>>>>> 4aec0321d2ee2264db775157124dfe18ff5a0c0f
